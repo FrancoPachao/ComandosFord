@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.container {
+    background-color: #d4d2ae;
+    margin: 10px;
+    padding: 20px;
+    width: 850px;
+    height: 750px;
+}
+
+header {
+    margin-left: 155px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.stretched {
+    width: 120px;
+    height: 60px;
+}
+
+img {
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 120px;
+}
+
+.blocksblue {
+    margin: 5px;
+    height: 150px;
+    width: 150px;
+    background-color: #82b4ee;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.blocksred {
+    margin: 5px;
+    height: 150px;
+    width: 150px;
+    background-color: #f36870;
+    border: 3px solid black;
+    display: inline-block;
+}
